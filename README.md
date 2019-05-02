@@ -23,24 +23,24 @@ Airbnb Design recently co-hosted John Maeda‘s “Design in Tech” report in p
 
 ### [What is design? More than 'making things pretty.](https://www.youtube.com/watch?v=6zno_CC26lc)
 (3 min)A design chat video on why design is more than just making things look pretty. <br><br>
-<a href="https://www.youtube.com/watch?v=6zno_CC26lc"><img src="https://img.youtube.com/vi/6zno_CC26lc/0.jpg" width="300"></a>
+<a href="https://www.youtube.com/watch?v=6zno_CC26lc"><img src="https://img.youtube.com/vi/6zno_CC26lc/0.jpg" width="420"></a>
 
 #
 
 ### [How design solves problems.](https://www.youtube.com/watch?v=wOrmr5kT-48)
 (5 min) The design process for problem-solving, in 4 steps.<br><br>
-<a href="https://www.youtube.com/watch?v=wOrmr5kT-48"><img src="https://img.youtube.com/vi/wOrmr5kT-48/0.jpg" width="300"></a>
+<a href="https://www.youtube.com/watch?v=wOrmr5kT-48"><img src="https://img.youtube.com/vi/wOrmr5kT-48/0.jpg" width="420"></a>
 
 #
 
 ### [What is Design? by italiaDesign](https://vimeo.com/179726283)
 (6 min) Every year we ask architects and designers this one question: What is design? The result is a compilation of thoughts and interpretations of the word ‘design’ and its role in the world.<br><br>
-<a href="https://www.youtube.com/watch?v=9_50kJN2kyQ"><img src="https://i.vimeocdn.com/video/587873014.webp?mw=960&amp;mh=540" width="300"></a>
+<a href="https://www.youtube.com/watch?v=9_50kJN2kyQ"><img src="https://i.vimeocdn.com/video/587873014.webp?mw=960&amp;mh=540" width="420"></a>
 
 #
 
 ### [Design for Humans](https://www.youtube.com/watch?v=9_50kJN2kyQ)
 (2 min) Every year we ask architects and designers this one question: What is design? The result is a compilation of thoughts and interpretations of the word ‘design’ and its role in the world.<br><br>
-<a href="https://www.youtube.com/watch?v=9_50kJN2kyQ"><img src="https://img.youtube.com/vi/9_50kJN2kyQ/0.jpg" width="300"></a>
+<a href="https://www.youtube.com/watch?v=9_50kJN2kyQ"><img src="https://img.youtube.com/vi/9_50kJN2kyQ/0.jpg" width="420"></a>
 
 #
