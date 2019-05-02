@@ -23,7 +23,7 @@ Airbnb Design recently co-hosted John Maeda‘s “Design in Tech” report in p
 
 ### [What is design? More than 'making things pretty.](https://www.youtube.com/watch?v=6zno_CC26lc)
 (3 min)A design chat video on why design is more than just making things look pretty. <br><br>
-<a href="https://www.youtube.com/watch?v=6zno_CC26lc"><img src="https://img.youtube.com/vi/6zno_CC26lc/1.jpg" width="300"></a>
+<a href="https://www.youtube.com/watch?v=6zno_CC26lc"><img src="https://img.youtube.com/vi/6zno_CC26lc/0.jpg" width="300"></a>
 
 #
 
