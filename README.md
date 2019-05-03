@@ -1,6 +1,5 @@
 # What is Design? #
-
-<br>
+<br \>
 > ## Good design is making something intelligible and memorable. Great design is making something memorable and meaningful.
 > – Dieter Rams, German industrial designer 
 
