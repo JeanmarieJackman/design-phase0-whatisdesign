@@ -7,7 +7,7 @@
 
 Design is all of the above, plus more. For the untrained eye, design can be a tricky thing to spot and pinpoint. That's actually a sign of good design: When a product, service or experience is designed well, the design itself is invisible. Bad design, on the other hand, sticks out like a sore thumb. In fact, you could probably create a long list of poorly designed experiences and products you've seen over the course of your lifetime. Think about it: That time the door had a handle, so you pulled instead of pushed, only to find it wouldn't budge. Or perhaps the time you made it halfway through assembling a desk only to realize your foundational pieces of particle board were upside down.
 
-If there's anything bad design can teach us, it's that every product, service and experience in this world should be built around the user. Good design takes into account user behavior and needs/preferences, all possible scenarios of use and the needs of the business selling the item or experience. Good design ensures successful user experiences, better brand platforms and less wasted time and money on product features that nobody needs or wants.
+If there's anything bad design can teach us, it's that every product, service and experience in this world should be built around the user. Good design takes into account user behavior and needs/preferences, all possible scenarios of use and the needs of the business selling the item or experience. Good design ensures successful user experiences, better brand platforms and less wasted time and money on product features that nobody wants or needs.
 
 ## Articles ##
 
