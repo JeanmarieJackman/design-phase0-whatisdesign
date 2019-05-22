@@ -12,9 +12,7 @@ If there's anything bad design can teach us, it's that every product, service an
 ## Articles ##
 
 ### [A Designer's Guide to Working in Tech](https://medium.com/bridge-collection/https-medium-com-vanlancker-a-designers-guide-to-working-in-tech-2153ffe46e81)
-by [Willem Van Lancker](https://www.willemvanlancker.com/) of [Thrive Capital.](https://www.thrivecap.com/) (26 min read)
-
-Many of us who trained as graphic or industrial designers could never have envisioned a career in technology — and then suddenly, given the rare combination of timing, opportunity, and market, we find ourselves thrust into an industry that we’re not just new to but is also rapidly changing how all people work. [Read More](https://medium.com/bridge-collection/https-medium-com-vanlancker-a-designers-guide-to-working-in-tech-2153ffe46e81)
+by [Willem Van Lancker](https://www.willemvanlancker.com/) of [Thrive Capital.](https://www.thrivecap.com/) (26 min read) <br>Many of us who trained as graphic or industrial designers could never have envisioned a career in technology — and then suddenly, given the rare combination of timing, opportunity, and market, we find ourselves thrust into an industry that we’re not just new to but is also rapidly changing how all people work. [Read More](https://medium.com/bridge-collection/https-medium-com-vanlancker-a-designers-guide-to-working-in-tech-2153ffe46e81)
 
 
 ### [Design in Tech Recap](https://airbnb.design/design-in-tech-recap/) 
