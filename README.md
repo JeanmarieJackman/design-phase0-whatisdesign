@@ -24,13 +24,13 @@ Airbnb Design recently co-hosted John Maeda‘s “Design in Tech” report in p
 
 ## Videos ##
 
-### [What is design? More than 'making things pretty.](https://www.youtube.com/watch?v=6zno_CC26lc)
-(3 min)A design chat video on why design is more than just making things look pretty. <br><br>
+### [What is design? More than 'making things pretty](https://www.youtube.com/watch?v=6zno_CC26lc)
+(3 min) A design chat video on why design is more than just making things look pretty. <br><br>
 <a href="https://www.youtube.com/watch?v=6zno_CC26lc"><img src="https://img.youtube.com/vi/6zno_CC26lc/0.jpg" width="420"></a>
 
 #
 
-### [How design solves problems.](https://www.youtube.com/watch?v=wOrmr5kT-48)
+### [How design solves problems](https://www.youtube.com/watch?v=wOrmr5kT-48)
 (5 min) The design process for problem-solving, in 4 steps.<br><br>
 <a href="https://www.youtube.com/watch?v=wOrmr5kT-48"><img src="https://img.youtube.com/vi/wOrmr5kT-48/0.jpg" width="420"></a>
 
@@ -43,7 +43,7 @@ Airbnb Design recently co-hosted John Maeda‘s “Design in Tech” report in p
 #
 
 ### [Design for Humans](https://www.youtube.com/watch?v=9_50kJN2kyQ)
-(2 min) Every year we ask architects and designers this one question: What is design? The result is a compilation of thoughts and interpretations of the word ‘design’ and its role in the world.<br><br>
+(2 min) Technology is designed for humans, by humans. The era of human technology will transform both business and society. <br><br>
 <a href="https://www.youtube.com/watch?v=9_50kJN2kyQ"><img src="https://img.youtube.com/vi/9_50kJN2kyQ/0.jpg" width="420"></a>
 
 #
