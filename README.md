@@ -36,7 +36,7 @@ by [John Maeda](https://www.linkedin.com/in/johnmaeda) of [Maeda Studio.](https:
 
 ## [What is Design? by italiaDesign](https://vimeo.com/179726283)
 (6 min) Every year we ask architects and designers this one question: What is design? The result is a compilation of thoughts and interpretations of the word ‘design’ and its role in the world.<br><br>
-<a href="https://www.youtube.com/watch?v=9_50kJN2kyQ"><img src="https://i.vimeocdn.com/video/587873014.webp?mw=960&amp;mh=540" width="420"></a>
+<a href="https://vimeo.com/179726283"><img src="https://i.vimeocdn.com/video/587873014.webp?mw=960&amp;mh=540" width="420"></a>
 
 #
 
